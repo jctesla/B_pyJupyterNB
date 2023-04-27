@@ -1,0 +1,7 @@
+Para encontrar la Matriz Inversa de 'A':
+1º Copiamos la Matriz 'A' y le adjuntamos/colocamos al costado la matriz Identidad.
+2º luego con el metodo de reducción de gauss jordan, intentamos q la matriz copia 'A' se convierta en una matriz identidad y que la matriz identidad q esta asu costado se
+convierta en la matriz inversa de 'A'.
+--------------------------------------------------------------------
+
+
